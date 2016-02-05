@@ -1,0 +1,2 @@
+# assets
+JavaScript Nicaragua Assets
